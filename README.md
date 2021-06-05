@@ -17,7 +17,7 @@ module.exports = {
     subject: `今日份彩虹屁☀,请签收~`, // 邮件标题
 
     hour: 9,  // 发件时间(时)
-    minute: 0, // 发件时间(秒)
+    minute: 0, // 发件时间(分)
 }
 
 ```

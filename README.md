@@ -1,9 +1,10 @@
-# 定时彩虹屁发送功能使用指南
+# 定时彩虹屁发送服务
 
+## 使用指南
 
 1. `npm install` 安装所需依赖
 
-2. 在项目根目录新建local_config.js文件,并将此段内容粘贴进去并修改为你的配置
+2. 在项目根目录新建local_config.js文件后将此段内容粘贴进去并修改为你的配置
 ```javascript
 module.exports = {
     auth: {
